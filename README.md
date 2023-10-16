@@ -6,9 +6,9 @@ A trip to Scotland in 2016 led me to download a game called Clash Royale, which 
 
 RoyaleAPI started out as a personal project that’s only used by myself and a few small circle of friends. Little did I know, it would evolve into my full-time commitment with millions of monthly active users, catapulting me to the status of one of the premier content partners with Supercell, the Finnish developer of the game. [See: Supercell Creator Spotlight: RoyaleAPI](https://supercell.com/en/games/clashroyale/blog/community/creator-spotlight-royaleapi/)
 
-My projects have been featured in The Associated Press, BBC, Business Week, CBC, CNet, CNN, Forbes, International Herald Tribune, New York Times, Red Herring, ReadWriteWeb, Reuters, USA Today, Vanity Fair, Washington Post and Yahoo!
+My interaction design projects have been featured in The Associated Press, BBC, Business Week, CBC, CNet, CNN, Forbes, International Herald Tribune, New York Times, Red Herring, ReadWriteWeb, Reuters, USA Today, Vanity Fair, Washington Post and Yahoo!
 
-My projects have also been recognized in multiple international design and technology awards including the prestigious Omni Intermedia Awards, One Show Interactive awards, WWW Health Awards, WMA Web Awards and Graphis Interactive Annuals. Past clients include Bank of America, Bristol-Myers Squibb, British Airways, David's Bridal, EMI Music Publishing, IBM, IconMedialab, Prada, Regus Group, MasterCard Advisors, MasterCard International, McKinsey & Company, Morgan Stanley, WebMD, Ziff Davis Media, and Yale University.
+They have also been recognized in multiple international design and technology awards including the prestigious Omni Intermedia Awards, One Show Interactive awards, WWW Health Awards, WMA Web Awards and Graphis Interactive Annuals. Past clients include Bank of America, Bristol-Myers Squibb, British Airways, David's Bridal, EMI Music Publishing, IBM, IconMedialab, Prada, Regus Group, MasterCard Advisors, MasterCard International, McKinsey & Company, Morgan Stanley, WebMD, Ziff Davis Media, and Yale University.
 
 I hold a B.A. in art with a concentration in graphic design from Yale University.
 

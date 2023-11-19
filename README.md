@@ -21,7 +21,7 @@ You can find me in these places:
 - [Github @smlbiobot](https://github.com/smlbiobot)
 - [Github @seeminglee](https://github.com/seeminglee)
 
-Supercell wrote an article / interview with me in 2022:
+
 
 
 

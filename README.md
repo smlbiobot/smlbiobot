@@ -18,6 +18,7 @@ See-ming holds a B.A. in art with a concentration in graphic design from Yale Un
 
 Professional Affiliation: AIGA, IxDA.
 
+- [seeminglee.com](https://seeminglee.com)
 - [Twitter @seeminglee](https://twitter.com/seeminglee)
 - [LinkedIn @seeminglee](https://www.linkedin.com/in/seeminglee)
 - [Instagram @seeminglee](https://instagram.com/seeminglee)

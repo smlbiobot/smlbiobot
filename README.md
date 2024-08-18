@@ -6,7 +6,7 @@ See-ming Lee 李思明 (SML) is a designer and technologist with 25+ years of pr
 
 As the Executive Director of SML Universe, a Hong Kong-based company specializing in interactive media, See-ming leverages his diverse skill set as a cross-disciplinary synergist to assist international Fortune 500 companies with their websites, advertising campaigns, interactive installations, and prototypes.
 
-Motivated by the belief that important ideas often lack the necessary coverage, he pursued a path as a photographer and photojournalist. He documents meaningful events and individuals, aiming to give a voice to those who are marginalized due to bigotry and prejudice. Some of his photos can be found on Getty Images
+Motivated by the belief that important ideas often lack the necessary coverage, he pursued a path as a photographer and photojournalist. He documents meaningful events and individuals, aiming to give a voice to those who are marginalized due to bigotry and prejudice. Some of his photos can be found on Getty Images.
 
 After graduating from Yale University in 1999, See-ming moved to New York and started working as Designer (1999-2000) for IconNicholson / LBi International. He became the first cross-competency employee in the company’s history worldwide, and was promoted as Senior Designer and Senior Interface Engineer (2000-2002), and as Art Director and Senior Interface Engineer (2002-2008). With the desire to gain experience working for startups in preparation to open his own business, See-ming joined Massify as Design Director (2008) and afterwards as Chief Creative Officer (2009-2010) for Artsy. In 2012, he moved to Hong Kong and established his own consultancy firm.
 
